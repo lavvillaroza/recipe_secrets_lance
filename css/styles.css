@@ -186,14 +186,15 @@ section {
 }
 
 .logo {
-  font-family: var(--font-heading);
+  font-family: 'Roboto', sans-serif;
+  font-weight: 700;
   font-size: 1.5rem;
-  color: var(--color-cream);
+  color: #d4af37;
   letter-spacing: 0.02em;
 }
 
 .logo span {
-  color: var(--color-accent);
+  color: #d4af37;
 }
 
 .nav-toggle {
